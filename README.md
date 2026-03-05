@@ -1,9 +1,9 @@
-# 🎲 Probability Lab v2.0
+# 🎲 Probability Lab v3
 ### Monte Carlo Simulation Engine · Statistical Toolkit
 
 ---
 
-## What's New in v2.0
+## What's New in v3.0
 
 - **Landing page** with animated moving-gradient navbar
 - **Discrete Lab** — Binomial, Geometric, Poisson (with animate button)
@@ -19,7 +19,7 @@
 
 ```
 probability_lab/
-├── streamlit_app.py        ← main app (run this)
+├── app_s.py        ← main app (run this)
 ├── requirements.txt
 ├── core/
 │   ├── __init__.py
