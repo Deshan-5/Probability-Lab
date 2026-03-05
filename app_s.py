@@ -840,7 +840,7 @@ def page_landing():
                background-size:300% 300%;
                -webkit-background-clip:text;-webkit-text-fill-color:transparent;
                animation:shimmer 5s ease infinite,glitchIn 0.9s ease both;
-               filter:drop-shadow(0 0 40px rgba(0,245,255,0.22));">PROBABILITY</div>
+               filter:drop-shadow(0 0 1px rgba(0,245,255,0.001));">PROBABILITY</div>
           <div style="font-family:Orbitron,monospace;font-size:clamp(1.4rem,3.5vw,3rem);
                font-weight:700;letter-spacing:16px;line-height:1;margin-top:4px;
                background:linear-gradient(90deg,#9d4edd,#ff2d78 45%,#ffb700 80%,#00ff9d);
